@@ -1,0 +1,7 @@
+alias gs="git status"
+alias ga="git add"
+alias gaa="git add -a"
+alias gc="git commit"
+alias gca="git commit -a -m"
+alias gll="git pull"
+alias gsh="git push"

@@ -1,7 +1,2 @@
---- PSScriptRoot
-$PSScriptRoot
-
---- MyInvocation
-$MyInvocation
-
---- End
+. "$PSScriptRoot\git.ps1"
+. "$PSScriptRoot\docker.ps1"
